@@ -1,6 +1,3 @@
-## Lesson-4
-
-Adding routing with react-router, then creating new routes for our existing homepage and our new hats page
 
 # How to fork and clone
 
