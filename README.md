@@ -1,7 +1,13 @@
 
-## Install dependencies
-
-In your terminal after you clone your project down, remember to run either `yarn` or `npm install` to build all the dependencies in the project.
+# Used technologies
+* React
+* Redux
+* Redux Saga
+* GraphQL
+* Firebase
+* Stripe
+* Styled-Components
+* Testing with Jest, Enzyme and Snapshot testing
 
 ## Set your firebase config
 
@@ -25,14 +31,5 @@ npm run client-install
 npm run dev
 ```
  
-# Used technologies
-* React
-* Redux
-* Redux Saga
-* GraphQL
-* Firebase
-* Stripe
-* Styled-Components
-* Testing with Jest, Enzyme and Snapshot testing
 
 
